@@ -1,3 +1,9 @@
+# ------------------------------------------------------------------------
+# NAFNet: Copyright (c) 2022 megvii-model. All Rights Reserved.
+#
+# Modifications made by Youngjin Oh
+# ------------------------------------------------------------------------
+
 import torch
 import torch.nn as nn
 from torch.nn import functional as F
